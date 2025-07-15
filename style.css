@@ -88,6 +88,8 @@ body {
     width: 400px;
     border-radius: 20px;
     margin-right: 120px;
+    background-color: #eee;
+    object-fit: contain;
 }
 
 .movie-name h2 {
